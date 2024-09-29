@@ -1,10 +1,12 @@
+Here’s a concise `README.md` for your **Angular frontend**:
+
 ---
 
 # Employee Management System Frontend
 
 This is the **Angular** frontend for the Employee Management System, which integrates with the backend Spring Boot application to provide a user interface for managing employee records. The application includes components for adding, updating, deleting, and listing employees, and uses **SweetAlert** for interactive alerts.
 
-> **Note**: The backend repository can be found [https://github.com/Siddhantthorat/EmployeeManagementSystemBackend](#).
+> **Note**: The backend repository can be found [here](#).
 
 ---
 
@@ -31,7 +33,7 @@ Each component interacts with a service to communicate with the backend API.
 
 ## Technologies Used
 
-- **Angular** (v14)
+- **Angular** (vX.X)
 - **Angular Router**: For navigation between components.
 - **HttpClient**: For making HTTP requests to the Spring Boot backend.
 - **SweetAlert**: For user-friendly alerts and confirmation dialogs.
@@ -43,7 +45,7 @@ Each component interacts with a service to communicate with the backend API.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Siddhantthorat/employee-management-frontend.git
+   git clone https://github.com/your-username/employee-management-frontend.git
    cd employee-management-frontend
    ```
 2. **Install dependencies**:
@@ -74,7 +76,8 @@ Ensure that the backend is running and properly configured to accept requests.
 ## Author
 
 **Your Name**  
-[Backend Repository](#) | [GitHub](https://github.com/Siddhantthorat/EmployeeManagementSystemBackend)
+[Backend Repository](#) | [GitHub](https://github.com/your-username)
 
 ---
 
+You can replace the placeholder links and version numbers where applicable. This `README.md` highlights the core functionality of your Angular frontend while keeping it concise.
