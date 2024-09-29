@@ -33,7 +33,7 @@ Each component interacts with a service to communicate with the backend API.
 
 ## Technologies Used
 
-- **Angular** (vX.X)
+- **Angular** (v14)
 - **Angular Router**: For navigation between components.
 - **HttpClient**: For making HTTP requests to the Spring Boot backend.
 - **SweetAlert**: For user-friendly alerts and confirmation dialogs.
