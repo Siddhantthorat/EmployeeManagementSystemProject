@@ -1,4 +1,4 @@
-Here’s a concise `README.md` for your **Angular frontend**:
+
 
 ---
 
@@ -76,8 +76,7 @@ Ensure that the backend is running and properly configured to accept requests.
 ## Author
 
 **Your Name**  
-[Backend Repository](#) | [GitHub](https://github.com/your-username)
+[Backend Repository](#) | [GitHub](https://github.com/Siddhantthorat/EmployeeManagementSystemBackend)
 
 ---
 
-You can replace the placeholder links and version numbers where applicable. This `README.md` highlights the core functionality of your Angular frontend while keeping it concise.
